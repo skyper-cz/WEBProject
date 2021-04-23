@@ -1,6 +1,6 @@
-package educanet.Manager;
+package cz.educanet.Manager;
 
-import educanet.Resources.User;
+import cz.educanet.Resources.User;
 
 import javax.enterprise.context.ApplicationScoped;
 import java.util.ArrayList;

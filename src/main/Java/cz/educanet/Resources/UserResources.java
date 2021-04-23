@@ -1,6 +1,6 @@
-package educanet.Resources;
+package cz.educanet.Resources;
 
-import educanet.Manager.UserManager;
+import cz.educanet.Manager.UserManager;
 
 import javax.inject.Inject;
 import javax.ws.rs.*;

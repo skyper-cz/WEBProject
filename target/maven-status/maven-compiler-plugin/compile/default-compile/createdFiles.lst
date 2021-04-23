@@ -1,0 +1,4 @@
+cz\educanet\Resources\ApiConfig.class
+cz\educanet\Manager\UserManager.class
+cz\educanet\Resources\User.class
+cz\educanet\Resources\UserResources.class

@@ -1,4 +1,4 @@
-package educanet.Resources;
+package cz.educanet.Resources;
 
 public class User {
 
